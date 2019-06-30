@@ -1,0 +1,22 @@
+* 08ed413 (HEAD, master, bug/fix) add code review fixes
+* 197bc35 fix bug on the code on update
+| * fccf975 (feature/new-feature) add new feature to update list automatically
+| * a0cca19 initiate feature development
+|/  
+* 09714b9 (origin/master, origin/HEAD) started new log
+* 823e4de update script
+*   3f52ae5 take bug fixes
+|\  
+| * 0036f9f (tag: v.2.0) temp feature changes
+* | 28c274b add new changes
+* |   7d50905 Merge branch 'feature/new-values'
+|\ \  
+| * | ddf13ac (tag: v.1.0) Feature addons
+| * | 587de5e feature 2 commits
+* | | 05b52d1 bug fixes
+| |/  
+|/|   
+* | 929539c Feature 1
+|/  
+* 578fe92 This is the first commit to add file appending script
+* 7c4e3a3 Initial commit
